@@ -2,4 +2,24 @@
     background-color: #ffc0cb;
     border: 1px solid black;
     height: 150px;
+    padding: 15px;
+}
+
+.width-50{
+    background-color: #ffc0cb;
+    border: 1px solid black;
+    width: 50%;
+    float: left;
+}
+
+.box-nexted{
+    background-color: #f07f80;
+    height: 130px;
+    margin: 10px 5px;
+}
+
+.clearfix::after{
+    content: '';
+    display: table;
+    clear: both;
 }
