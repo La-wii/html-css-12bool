@@ -1,4 +1,21 @@
 .box{
-    height: 100px;
+    height: 80px;
     border: 1px solid black;
 }
+
+.blue{
+    background-color: blue;
+}
+
+.royal-blue{
+    background-color: royalblue;
+}
+
+.light-blue{
+    background-color: skyblue;
+}
+
+.black{
+    background-color: black;
+}
+
